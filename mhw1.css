@@ -28,7 +28,7 @@ html, body {
     flex-direction: row;
     justify-content: space-between;
     gap: 20px;
-    align-items: center; /* Migliore allineamento verticale */
+    align-items: center;
     padding: 10px 20px; 
     background-color: #141920;
 }

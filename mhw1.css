@@ -103,7 +103,7 @@ html, body {
     flex-direction: column;
     align-items: center;
     width: 100%;
-    margin-bottom: 20px; /* Distanza tra i box e il footer */
+    margin-bottom: 20px;
     flex-grow: 1;
 }
 
